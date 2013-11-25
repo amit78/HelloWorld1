@@ -6,7 +6,7 @@ import java.util.logging.XMLFormatter;
 public class HelloWorldClass {
 
     HelloWorldClass() {
-        System.out.println("Inside constructor of this  great class of excellence");
+        System.out.println("Inside constructor of this   class of excellence");
     }
 
     public static void main(String[] args) {
