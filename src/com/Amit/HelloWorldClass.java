@@ -1,7 +1,7 @@
 package com.Amit;
 
 
-import java.util.logging.XMLFormatter;
+//import java.util.logging.XMLFormatter;
 
 public class HelloWorldClass {
 
@@ -12,9 +12,12 @@ public class HelloWorldClass {
     public static void main(String[] args) {
         System.out.println("Hello World Program  ...!!!!");
         System.out.println("Hey man");
-        Object o=new Object();
+        Object o = Object();
+        System.out.println("Hey man");
+        System.out.println("Hey man");
+        o = new Object();
+        o.getClass().getAnnotations().getClass().desiredAssertionStatus();
 
-        o.
 
     }
 
